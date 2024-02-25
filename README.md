@@ -1,1 +1,1 @@
-#Visualização de QR Code com flexbox#
+# Visualização de QR Code com flexbox
